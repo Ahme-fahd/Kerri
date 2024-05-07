@@ -1,2 +1,2 @@
-# Kerri
-A Project by bootstrap
+# kerri
+Bootstrap project
